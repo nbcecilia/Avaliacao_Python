@@ -37,3 +37,5 @@ for i in range(t):
         print(jogador[0])
 
     print()
+
+
